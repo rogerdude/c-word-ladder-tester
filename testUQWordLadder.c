@@ -1,7 +1,7 @@
 /*
  * testUQWordLadder
  * CSSE2310 A3
- * 47435278 - Hamza Khurram
+ * Author: Hamza
  */
 
 #include <csse2310a3.h>
